@@ -1,0 +1,4 @@
+{
+    "dbUrl": "mongodb+srv://dbKas:41231fail@cluster0.ec1z4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "serverPort" : 5000
+}
